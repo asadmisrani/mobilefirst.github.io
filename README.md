@@ -42,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/asadmisrani/finishmobileversion.github.io)
+- [Live Demo Link](https://github.com/asadmisrani/mobilefirst.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
